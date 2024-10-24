@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rqb8qy0ml-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/rqb8qy0ml-java-quarkus-gitops
